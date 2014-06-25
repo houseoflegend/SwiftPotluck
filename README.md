@@ -1,7 +1,7 @@
 SwiftPotluck
 ============
 
-Links to repos for the projects from the Swift Potluck at the NY iOS Developer Meetup on June 21, 2014.
+Links to repos for the projects from the Swift Potluck at the NY iOS Developer Meetup on June 25, 2014.
 
 [**Veronique Brossier**](https://twitter.com/v3ronique): [Real-time drawing and animation preview in Playground](http://)
 
