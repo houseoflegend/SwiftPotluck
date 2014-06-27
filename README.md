@@ -1,7 +1,7 @@
 SwiftPotluck
 ============
 
-Links to repos for the projects from the Swift Potluck at the NY iOS Developer Meetup on June 25, 2014.
+Links to presenter Twitter pages and project repos for the projects from the Swift Potluck at the NY iOS Developer Meetup on June 25, 2014.
 
 [**Tom Corwine**](https://twitter.com/tomcorwine): [Custom keyboard](https://github.com/TomCorwine/BigKeyboard-iOS)
 
