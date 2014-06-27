@@ -11,10 +11,10 @@ Links to repos for the projects from the Swift Potluck at the NY iOS Developer M
 
 [**Jorge Izquierdo**](https://twitter.com/izqui9): [Taylor, a framework for creating HTTP server applications in Swift from the terminal.](https://github.com/izqui/Taylor)
 
-[**Mike Lazer-Walker**] [https://github.com/lazerwalker](https://github.com/lazerwalker) (project repo TBD)
+[**Mike Lazer-Walker**](https://twitter.com/lazerwalker): [https://github.com/lazerwalker](https://github.com/lazerwalker) (project repo TBD)
 
 [**Larry Legend**](https://twitter.com/larrylegend): [Particle effects with Swift and Core Graphics](https://github.com/houseoflegend/SwirlingBalls)
 
 [**Michael Vitrano**](https://twitter.com/michaelvitrano): [Trailing-closure syntax in Swift, demoed with the Aviary API](https://github.com/michaelvitrano/SwiftAviaryDemo)
 
-[**Jared Watkins**](https://twitter.com/jaredwatkins): [Table view hello world]https://github.com/jaredwatkins/SwiftHelloWorld
+[**Jared Watkins**](https://twitter.com/jaredwatkins): [Table view hello world](https://github.com/jaredwatkins/SwiftHelloWorld)
